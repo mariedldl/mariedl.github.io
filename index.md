@@ -4,4 +4,4 @@
 # Marie's website
 
 
-  [Link to (images/dd.png)]
+  [Link to picture(images/dd.png)]
